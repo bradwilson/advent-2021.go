@@ -1,0 +1,9 @@
+{
+  "name": "##PROJECT##",
+  "type": "go",
+  "request": "launch",
+  "mode": "debug",
+  "program": "${workspaceFolder}/##PROJECT##/main.go",
+  "cwd": "${workspaceFolder}/##PROJECT##",
+  "stopOnEntry": false
+}
