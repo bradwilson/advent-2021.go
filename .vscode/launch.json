@@ -135,6 +135,15 @@
       "program": "${workspaceFolder}/day15/main.go",
       "cwd": "${workspaceFolder}/day15",
       "stopOnEntry": false
+    },
+    {
+      "name": "day16",
+      "type": "go",
+      "request": "launch",
+      "mode": "debug",
+      "program": "${workspaceFolder}/day16/main.go",
+      "cwd": "${workspaceFolder}/day16",
+      "stopOnEntry": false
     }
   ]
 }
